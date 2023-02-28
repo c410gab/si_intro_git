@@ -11,6 +11,7 @@ div.container{
     box-shadow: 3px 3px 3px gray;
     display: block;
     margin: 0;
+    box-shadow: 3px 3px 3px gray ;
 }
 
 ul.list {
